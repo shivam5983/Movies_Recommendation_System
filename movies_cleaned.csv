@@ -1,0 +1,1001 @@
+Movie,Genre,TotalRating,WatchCount
+Avatar,Action Adventure Fantasy Science Fiction,72.0,10
+Pirates of the Caribbean: At World's End,Adventure Fantasy Action,69.0,10
+Spectre,Action Adventure Crime,63.0,10
+The Dark Knight Rises,Action Crime Drama Thriller,76.0,10
+John Carter,Action Adventure Science Fiction,61.0,10
+Spider-Man 3,Fantasy Action Adventure,59.0,10
+Tangled,Animation Family,74.0,10
+Avengers: Age of Ultron,Action Adventure Science Fiction,73.0,10
+Harry Potter and the Half-Blood Prince,Adventure Fantasy Family,74.0,10
+Batman v Superman: Dawn of Justice,Action Adventure Fantasy,57.0,10
+Superman Returns,Adventure Fantasy Action Science Fiction,54.0,10
+Quantum of Solace,Adventure Action Thriller Crime,61.0,10
+Pirates of the Caribbean: Dead Man's Chest,Adventure Fantasy Action,70.0,10
+The Lone Ranger,Action Adventure Western,59.0,10
+Man of Steel,Action Adventure Fantasy Science Fiction,65.0,10
+The Chronicles of Narnia: Prince Caspian,Adventure Family Fantasy,63.0,10
+The Avengers,Science Fiction Action Adventure,74.0,10
+Pirates of the Caribbean: On Stranger Tides,Adventure Action Fantasy,64.0,10
+Men in Black 3,Action Comedy Science Fiction,62.0,10
+The Hobbit: The Battle of the Five Armies,Action Adventure Fantasy,71.0,10
+The Amazing Spider-Man,Action Adventure Fantasy,65.0,10
+Robin Hood,Action Adventure,62.0,10
+The Hobbit: The Desolation of Smaug,Adventure Fantasy,76.0,10
+The Golden Compass,Adventure Fantasy,58.0,10
+King Kong,Adventure Drama Action,66.0,10
+Titanic,Drama Romance Thriller,75.0,10
+Captain America: Civil War,Adventure Action Science Fiction,71.0,10
+Battleship,Thriller Action Adventure Science Fiction,55.0,10
+Jurassic World,Action Adventure Science Fiction Thriller,65.0,10
+Skyfall,Action Adventure Thriller,69.0,10
+Spider-Man 2,Action Adventure Fantasy,67.0,10
+Iron Man 3,Action Adventure Science Fiction,68.0,10
+Alice in Wonderland,Family Fantasy Adventure,64.0,10
+X-Men: The Last Stand,Adventure Action Science Fiction Thriller,63.0,10
+Monsters University,Animation Family,70.0,10
+Transformers: Revenge of the Fallen,Science Fiction Action Adventure,60.0,10
+Transformers: Age of Extinction,Science Fiction Action Adventure,58.0,10
+Oz: The Great and Powerful,Fantasy Adventure Family,57.0,10
+The Amazing Spider-Man 2,Action Adventure Fantasy,65.0,10
+TRON: Legacy,Adventure Action Science Fiction,63.0,10
+Cars 2,Animation Family Adventure Comedy,58.0,10
+Green Lantern,Adventure Action Thriller Science Fiction,51.0,10
+Toy Story 3,Animation Family Comedy,76.0,10
+Terminator Salvation,Action Science Fiction Thriller,59.0,10
+Furious 7,Action,73.0,10
+World War Z,Action Drama Horror Science Fiction Thriller,67.0,10
+X-Men: Days of Future Past,Action Adventure Fantasy Science Fiction,75.0,10
+Star Trek Into Darkness,Action Adventure Science Fiction,74.0,10
+Jack the Giant Slayer,Action Family Fantasy,55.0,10
+The Great Gatsby,Drama Romance,73.0,10
+Prince of Persia: The Sands of Time,Adventure Fantasy Action Romance,62.0,10
+Pacific Rim,Action Science Fiction Adventure,67.0,10
+Transformers: Dark of the Moon,Action Science Fiction Adventure,61.0,10
+Indiana Jones and the Kingdom of the Crystal Skull,Adventure Action,57.0,10
+The Good Dinosaur,Adventure Animation Family,66.0,10
+Brave,Animation Adventure Comedy Family Action,67.0,10
+Star Trek Beyond,Action Adventure Science Fiction,66.0,10
+WALL·E,Animation Family,78.0,10
+Rush Hour 3,Action Comedy Crime Thriller,61.0,10
+2012,Action Adventure Science Fiction,56.0,10
+A Christmas Carol,Animation Drama,66.0,10
+Jupiter Ascending,Science Fiction Fantasy Action Adventure,52.0,10
+The Legend of Tarzan,Action Adventure,55.0,10
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Adventure Family Fantasy,67.0,10
+X-Men: Apocalypse,Science Fiction,64.0,10
+The Dark Knight,Drama Action Crime Thriller,82.0,10
+Up,Animation Comedy Family Adventure,77.0,10
+Monsters vs Aliens,Animation Family Adventure Science Fiction,60.0,10
+Iron Man,Action Science Fiction Adventure,74.0,10
+Hugo,Adventure Drama Family,70.0,10
+Wild Wild West,Action Adventure Comedy Science Fiction Western,51.0,10
+The Mummy: Tomb of the Dragon Emperor,Adventure Action Fantasy,52.0,10
+Suicide Squad,Action Adventure Crime Fantasy Science Fiction,59.0,10
+Evan Almighty,Fantasy Comedy Family,53.0,10
+Edge of Tomorrow,Action Science Fiction,76.0,10
+Waterworld,Adventure Action,59.0,10
+G.I. Joe: The Rise of Cobra,Adventure Action Thriller Science Fiction,56.0,10
+Inside Out,Drama Comedy Animation Family,80.0,10
+The Jungle Book,Family Adventure Drama Fantasy,67.0,10
+Iron Man 2,Adventure Action Science Fiction,66.0,10
+Snow White and the Huntsman,Adventure Fantasy Drama,58.0,10
+Maleficent,Fantasy Adventure Action Family Romance,70.0,10
+Dawn of the Planet of the Apes,Science Fiction Action Drama Thriller,73.0,10
+The Lovers,Action Adventure Science Fiction Romance,48.0,10
+47 Ronin,Drama Action Adventure Fantasy,59.0,10
+Captain America: The Winter Soldier,Action Adventure Science Fiction,76.0,10
+Shrek Forever After,Comedy Adventure Fantasy Animation Family,60.0,10
+Tomorrowland,Adventure Family Mystery Science Fiction,62.0,10
+Big Hero 6,Adventure Family Animation Action Comedy,85.7,11
+Wreck-It Ralph,Family Animation Comedy Adventure,71.0,10
+The Polar Express,Adventure Animation Family Fantasy,64.0,10
+Independence Day: Resurgence,Action Adventure Science Fiction,49.0,10
+How to Train Your Dragon,Fantasy Adventure Animation Family,75.0,10
+Terminator 3: Rise of the Machines,Action Thriller Science Fiction,59.0,10
+Guardians of the Galaxy,Action Science Fiction Adventure,79.0,10
+Interstellar,Adventure Drama Science Fiction,99.0,12
+Inception,Action Thriller Science Fiction Mystery Adventure,89.3,11
+Shin Godzilla,Action Adventure Drama Horror Science Fiction,65.0,10
+The Hobbit: An Unexpected Journey,Adventure Fantasy Action,70.0,10
+The Fast and the Furious,Action Crime Thriller,66.0,10
+The Curious Case of Benjamin Button,Fantasy Drama Thriller Mystery Romance,73.0,10
+X-Men: First Class,Action Science Fiction Adventure,71.0,10
+The Hunger Games: Mockingjay - Part 2,Action Adventure Science Fiction,66.0,10
+The Sorcerer's Apprentice,Fantasy Adventure Action Comedy Drama,58.0,10
+Poseidon,Adventure Action Drama Thriller,55.0,10
+Alice Through the Looking Glass,Fantasy,65.0,10
+Shrek the Third,Fantasy Adventure Animation Comedy Family,60.0,10
+Warcraft,Action Adventure Fantasy,63.0,10
+Terminator Genisys,Science Fiction Action Thriller Adventure,58.0,10
+The Chronicles of Narnia: The Voyage of the Dawn Treader,Adventure Family Fantasy,62.0,10
+Pearl Harbor,History Romance War,66.0,10
+Transformers,Adventure Science Fiction Action,66.0,10
+Alexander,War History Action Adventure Drama,56.0,10
+Harry Potter and the Order of the Phoenix,Adventure Fantasy Family Mystery,74.0,10
+Harry Potter and the Goblet of Fire,Adventure Fantasy Family,75.0,10
+Hancock,Fantasy Action,62.0,10
+I Am Legend,Drama Horror Action Thriller Science Fiction,69.0,10
+Charlie and the Chocolate Factory,Adventure Comedy Family Fantasy,67.0,10
+Ratatouille,Animation Comedy Family Fantasy,75.0,10
+Batman Begins,Action Crime Drama,75.0,10
+Madagascar: Escape 2 Africa,Family Animation,62.0,10
+Night at the Museum: Battle of the Smithsonian,Adventure Fantasy Action Comedy Family,59.0,10
+X-Men Origins: Wolverine,Adventure Action Thriller Science Fiction,62.0,10
+The Matrix Revolutions,Adventure Action Thriller Science Fiction,64.0,10
+Frozen,Animation Adventure Family,73.0,10
+The Matrix Reloaded,Adventure Action Thriller Science Fiction,67.0,10
+Thor: The Dark World,Action Adventure Fantasy,68.0,10
+Mad Max: Fury Road,Action Adventure Science Fiction Thriller,72.0,10
+Angels & Demons,Thriller Mystery,65.0,10
+Thor,Adventure Fantasy Action,66.0,10
+Bolt,Animation Family Adventure Comedy,63.0,10
+G-Force,Fantasy Action Adventure Family Comedy,51.0,10
+Wrath of the Titans,Adventure,55.0,10
+Dark Shadows,Comedy Fantasy,57.0,10
+Mission: Impossible - Rogue Nation,Action Adventure Thriller,71.0,10
+The Wolfman,Drama Horror Thriller,55.0,10
+Bee Movie,Family Animation Adventure Comedy,57.0,10
+Kung Fu Panda 2,Animation Family,67.0,10
+The Last Airbender,Action Adventure Family Fantasy,47.0,10
+Mission: Impossible III,Adventure Action Thriller,65.0,10
+White House Down,Action Drama Thriller,64.0,10
+Mars Needs Moms,Adventure Animation Family,55.0,10
+Flushed Away,Adventure Animation Comedy Family,60.0,10
+Pan,Adventure Family Fantasy,59.0,10
+Mr. Peabody & Sherman,Animation Adventure Family,67.0,10
+Troy,Adventure Drama War,69.0,10
+Madagascar 3: Europe's Most Wanted,Animation Family,64.0,10
+Die Another Day,Adventure Action Thriller,58.0,10
+Ghostbusters,Action Fantasy Comedy,53.0,10
+Armageddon,Action Thriller Science Fiction Adventure,64.0,10
+Men in Black II,Action Adventure Comedy Science Fiction,60.0,10
+Beowulf,Adventure Action Animation,55.0,10
+Kung Fu Panda 3,Action Adventure Animation Comedy Family,67.0,10
+Mission: Impossible - Ghost Protocol,Action Thriller Adventure,68.0,10
+Rise of the Guardians,Fantasy Animation Family,71.0,10
+Fun with Dick and Jane,Comedy,59.0,10
+The Last Samurai,Drama Action War History,73.0,10
+Exodus: Gods and Kings,Adventure Drama Action,56.0,10
+Star Trek,Science Fiction Action Adventure,74.0,10
+Spider-Man,Fantasy Action,68.0,10
+How to Train Your Dragon 2,Fantasy Action Adventure Animation Comedy,76.0,10
+Gods of Egypt,Fantasy,53.0,10
+Stealth,Action,49.0,10
+Watchmen,Action Mystery Science Fiction,70.0,10
+Lethal Weapon 4,Action Adventure Comedy Crime Thriller,63.0,10
+Hulk,Drama Action Science Fiction,53.0,10
+G.I. Joe: Retaliation,Adventure Action Science Fiction Thriller,54.0,10
+Sahara,Action Adventure Comedy Drama Mystery,57.0,10
+Final Fantasy: The Spirits Within,Adventure Action Animation Fantasy Science Fiction,59.0,10
+Captain America: The First Avenger,Action Adventure Science Fiction,66.0,10
+The World Is Not Enough,Adventure Action Thriller,60.0,10
+Master and Commander: The Far Side of the World,Adventure,69.0,10
+The Twilight Saga: Breaking Dawn - Part 2,Adventure Fantasy Drama Romance,61.0,10
+Happy Feet Two,Animation Comedy Family,58.0,10
+The Incredible Hulk,Science Fiction Action Adventure,61.0,10
+The BFG,Adventure Family Fantasy,60.0,10
+The Revenant,Western Drama Adventure Thriller,73.0,10
+Turbo,Animation Family,61.0,10
+Rango,Animation Comedy Family Western Adventure,66.0,10
+Penguins of Madagascar,Family Animation Adventure Comedy,65.0,10
+The Bourne Ultimatum,Action Drama Mystery Thriller,73.0,10
+Kung Fu Panda,Adventure Animation Family Comedy,69.0,10
+Ant-Man,Science Fiction Action Adventure,70.0,10
+The Hunger Games: Catching Fire,Adventure Action Science Fiction,74.0,10
+Home,Fantasy Comedy Animation Science Fiction Family,68.0,10
+War of the Worlds,Adventure Thriller Science Fiction,62.0,10
+Bad Boys II,Adventure Action Comedy Thriller Crime,63.0,10
+Puss in Boots,Action Adventure Animation Family Fantasy,64.0,10
+Salt,Action Mystery Thriller,62.0,10
+Noah,Drama Adventure,56.0,10
+The Adventures of Tintin,Adventure Animation Mystery,67.0,10
+Harry Potter and the Prisoner of Azkaban,Adventure Fantasy Family,77.0,10
+Australia,Drama,63.0,10
+After Earth,Science Fiction Action Adventure,50.0,10
+Dinosaur,Animation Family,62.0,10
+Night at the Museum: Secret of the Tomb,Adventure Comedy Fantasy Family,61.0,10
+Megamind,Animation Action Comedy Family Science Fiction,67.0,10
+Harry Potter and the Philosopher's Stone,Adventure Fantasy Family,75.0,10
+R.I.P.D.,Fantasy Action Comedy Crime,54.0,10
+Pirates of the Caribbean: The Curse of the Black Pearl,Adventure Fantasy Action,75.0,10
+The Hunger Games: Mockingjay - Part 1,Science Fiction Adventure Thriller,66.0,10
+The Da Vinci Code,Thriller Mystery,65.0,10
+Rio 2,Animation Adventure Comedy Family,63.0,10
+X2,Adventure Action Science Fiction Thriller,68.0,10
+Fast Five,Action Thriller Crime,71.0,10
+Sherlock Holmes: A Game of Shadows,Adventure Action Crime Mystery,70.0,10
+Clash of the Titans,Adventure Fantasy Action,56.0,10
+Total Recall,Action Adventure Science Fiction,71.0,10
+The 13th Warrior,Adventure Fantasy Action,64.0,10
+The Bourne Legacy,Action Thriller,60.0,10
+Batman & Robin,Action Crime Fantasy,42.0,10
+How the Grinch Stole Christmas,Family Comedy Fantasy,62.0,10
+The Day After Tomorrow,Action Adventure Science Fiction Thriller,62.0,10
+Mission: Impossible II,Adventure Action Thriller,59.0,10
+The Perfect Storm,Drama,62.0,10
+Fantastic 4: Rise of the Silver Surfer,Adventure Fantasy Action Thriller,54.0,10
+Life of Pi,Adventure Drama Action,72.0,10
+Ghost Rider,Thriller Action Fantasy Horror,52.0,10
+Jason Bourne,Action Thriller,59.0,10
+Charlie's Angels: Full Throttle,Action Adventure Comedy,52.0,10
+Prometheus,Science Fiction Adventure Mystery,63.0,10
+Stuart Little 2,Family Adventure Animation Comedy,54.0,10
+Elysium,Science Fiction Action Drama Thriller,64.0,10
+The Chronicles of Riddick,Action Science Fiction,63.0,10
+RoboCop,Action Science Fiction,57.0,10
+Speed Racer,Action Family Science Fiction,57.0,10
+How Do You Know,Comedy Drama Romance,49.0,10
+Knight and Day,Action Comedy,59.0,10
+Oblivion,Action Science Fiction Adventure Mystery,64.0,10
+Star Wars: Episode III - Revenge of the Sith,Science Fiction Adventure Action,71.0,10
+Star Wars: Episode II - Attack of the Clones,Adventure Action Science Fiction,64.0,10
+"Monsters, Inc.",Animation Comedy Family,75.0,10
+The Wolverine,Action Science Fiction Adventure Fantasy,63.0,10
+Star Wars: Episode I - The Phantom Menace,Adventure Action Science Fiction,63.0,10
+The Croods,Adventure Animation Comedy Family Fantasy,68.0,10
+Asterix at the Olympic Games,Fantasy Adventure Comedy Family,50.0,10
+Windtalkers,Drama Action History War,58.0,10
+The Huntsman: Winter's War,Action Adventure Drama,60.0,10
+Teenage Mutant Ninja Turtles,Science Fiction Action Adventure Fantasy Comedy,58.0,10
+Gravity,Science Fiction Thriller Drama,73.0,10
+Dante's Peak,Action Adventure Thriller,57.0,10
+Teenage Mutant Ninja Turtles: Out of the Shadows,Fantasy Action Adventure Comedy,58.0,10
+Fantastic Four,Action Adventure Science Fiction,44.0,10
+Night at the Museum,Action Adventure Comedy Family Fantasy,63.0,10
+San Andreas,Action Drama Thriller,60.0,10
+Tomorrow Never Dies,Adventure Action Thriller,60.0,10
+The Patriot,Drama History War Action,68.0,10
+Ocean's Twelve,Thriller Crime,64.0,10
+Mr. & Mrs. Smith,Action Comedy Drama Thriller,65.0,10
+Insurgent,Adventure Science Fiction Thriller,62.0,10
+The Aviator,Drama,70.0,10
+Gulliver's Travels,Comedy,49.0,10
+The Green Hornet,Action Crime Comedy,55.0,10
+300: Rise of an Empire,Action War,61.0,10
+The Smurfs,Animation Family Adventure Comedy Fantasy,55.0,10
+Home on the Range,Animation Family,57.0,10
+Allegiant,Adventure Science Fiction,59.0,10
+Real Steel,Action Science Fiction Drama,66.0,10
+The Smurfs 2,Fantasy Family Comedy Animation,55.0,10
+Speed 2: Cruise Control,Action Adventure Thriller,41.0,10
+Ender's Game,Science Fiction Action Adventure,66.0,10
+Live Free or Die Hard,Action Thriller,64.0,10
+The Lord of the Rings: The Fellowship of the Ring,Adventure Fantasy Action,80.0,10
+Around the World in 80 Days,Action Adventure Comedy,57.0,10
+Ali,Drama,67.0,10
+The Cat in the Hat,Comedy Fantasy Family,49.0,10
+"I, Robot",Action Science Fiction,67.0,10
+Kingdom of Heaven,Drama Action Adventure History War,66.0,10
+Stuart Little,Animation Fantasy Family Comedy,58.0,10
+The Princess and the Frog,Romance Family Animation Music,67.0,10
+The Martian,Drama Adventure Science Fiction,76.0,10
+The Island,Action Thriller Science Fiction Adventure,65.0,10
+Town & Country,Comedy Romance,37.0,10
+Gone in Sixty Seconds,Action Crime Thriller,61.0,10
+Gladiator,Action Drama Adventure,79.0,10
+Minority Report,Action Thriller Science Fiction Mystery,71.0,10
+Harry Potter and the Chamber of Secrets,Adventure Fantasy Family,74.0,10
+Casino Royale,Adventure Action Thriller,73.0,10
+Planet of the Apes,Thriller Science Fiction Action Adventure,56.0,10
+Terminator 2: Judgment Day,Action Thriller Science Fiction,77.0,10
+Public Enemies,History Crime Drama,65.0,10
+American Gangster,Drama Crime,74.0,10
+True Lies,Action Thriller,68.0,10
+The Taking of Pelham 1 2 3,Thriller Drama Crime,62.0,10
+Little Fockers,Comedy Romance,54.0,10
+The Other Guys,Action Comedy Crime,61.0,10
+Eraser,Action Drama Mystery Thriller,56.0,10
+Django Unchained,Drama Western,78.0,10
+The Hunchback of Notre Dame,Drama Animation Family,68.0,10
+The Emperor's New Groove,Adventure Animation Comedy Family Fantasy,72.0,10
+The Expendables 2,Action Adventure Thriller,61.0,10
+National Treasure,Adventure Action Thriller Mystery,64.0,10
+Eragon,Fantasy Action Adventure Family,49.0,10
+Where the Wild Things Are,Family Fantasy,64.0,10
+Epic,Animation Adventure Family Fantasy,64.0,10
+The Tourist,Action Thriller Romance,60.0,10
+End of Days,Action Fantasy Horror Mystery,55.0,10
+Blood Diamond,Drama Thriller Action,73.0,10
+The Wolf of Wall Street,Crime Drama Comedy,110.1,14
+Batman Forever,Action Crime Fantasy,52.0,10
+Starship Troopers,Adventure Action Thriller Science Fiction,67.0,10
+Cloud Atlas,Drama Science Fiction,66.0,10
+Legend of the Guardians: The Owls of Ga'Hoole,Animation Adventure Family Fantasy,65.0,10
+Catwoman,Action Crime,42.0,10
+Hercules,Action Adventure,56.0,10
+Treasure Planet,Adventure Animation Family Fantasy Science Fiction,72.0,10
+Land of the Lost,Adventure Comedy Science Fiction,53.0,10
+The Expendables 3,Action Adventure Thriller,61.0,10
+Point Break,Action Crime Thriller,55.0,10
+Son of the Mask,Fantasy Comedy Family Adventure,36.0,10
+In the Heart of the Sea,Thriller Drama Adventure Action History,65.0,10
+The Adventures of Pluto Nash,Action Comedy Science Fiction,44.0,10
+Green Zone,War Action Adventure Drama Thriller,64.0,10
+The Peanuts Movie,Animation,65.0,10
+The Spanish Prisoner,Crime Drama Mystery Thriller,71.0,10
+The Mummy Returns,Adventure Action Fantasy,60.0,10
+Gangs of New York,Drama History Crime,71.0,10
+The Flowers of War,Drama History War,71.0,10
+Surf's Up,Animation Comedy Family,59.0,10
+The Stepford Wives,Action Comedy Science Fiction,54.0,10
+Black Hawk Down,Action History War,72.0,10
+The Campaign,Comedy,56.0,10
+The Fifth Element,Adventure Fantasy Action Thriller Science Fiction,73.0,10
+Sex and the City 2,Comedy Drama Romance,54.0,10
+The Road to El Dorado,Adventure Animation Comedy Family,70.0,10
+Ice Age: Continental Drift,Animation Comedy Adventure Family,62.0,10
+Cinderella,Romance Fantasy Family Drama,67.0,10
+The Lovely Bones,Fantasy Drama,66.0,10
+Finding Nemo,Animation Family,76.0,10
+The Lord of the Rings: The Return of the King,Adventure Fantasy Action,81.0,10
+The Lord of the Rings: The Two Towers,Adventure Fantasy Action,80.0,10
+Seventh Son,Adventure Fantasy,52.0,10
+Lara Croft: Tomb Raider,Adventure Fantasy Action Thriller,57.0,10
+Transcendence,Thriller Science Fiction Drama Mystery,59.0,10
+Jurassic Park III,Adventure Action Thriller Science Fiction,57.0,10
+Rise of the Planet of the Apes,Thriller Action Drama Science Fiction,70.0,10
+The Spiderwick Chronicles,Adventure Family Fantasy,63.0,10
+A Good Day to Die Hard,Action Thriller,52.0,10
+The Alamo,Western History War,58.0,10
+The Incredibles,Action Adventure Animation Family,74.0,10
+Cutthroat Island,Action Adventure,57.0,10
+Percy Jackson & the Olympians: The Lightning Thief,Adventure Fantasy Family,60.0,10
+Men in Black,Action Adventure Comedy Science Fiction,69.0,10
+Toy Story 2,Animation Comedy Family,73.0,10
+Unstoppable,Action Thriller,63.0,10
+Rush Hour 2,Action Comedy Crime Thriller,64.0,10
+What Lies Beneath,Drama Horror Mystery Thriller,63.0,10
+Cloudy with a Chance of Meatballs,Animation Comedy Family,65.0,10
+Ice Age: Dawn of the Dinosaurs,Animation Comedy Family Adventure,65.0,10
+The Secret Life of Walter Mitty,Adventure Comedy Drama Fantasy,70.0,10
+Charlie's Angels,Action Adventure Comedy Crime Thriller,56.0,10
+The Departed,Drama Thriller Crime,79.0,10
+Mulan,Animation Family Adventure,76.0,10
+Tropic Thunder,Action Comedy,65.0,10
+The Girl with the Dragon Tattoo,Thriller Crime Mystery Drama,72.0,10
+Die Hard: With a Vengeance,Action Thriller,69.0,10
+Sherlock Holmes,Action Adventure Crime Mystery,70.0,10
+Ben-Hur,Drama,53.0,10
+Atlantis: The Lost Empire,Animation Family Adventure Science Fiction,67.0,10
+Alvin and the Chipmunks: The Road Chip,Adventure Animation Comedy Family,58.0,10
+Valkyrie,Drama Thriller History War,67.0,10
+You Don't Mess with the Zohan,Comedy Action,55.0,10
+Pixels,Action Comedy Science Fiction,56.0,10
+A.I. Artificial Intelligence,Drama Science Fiction Adventure,68.0,10
+The Haunted Mansion,Thriller Fantasy Comedy Family Mystery,52.0,10
+Contact,Drama Science Fiction Mystery,72.0,10
+Hollow Man,Action Science Fiction Thriller,56.0,10
+The Interpreter,Crime Thriller,62.0,10
+Percy Jackson: Sea of Monsters,Adventure Family Fantasy,59.0,10
+Lara Croft Tomb Raider: The Cradle of Life,Action Adventure Fantasy Thriller,55.0,10
+Now You See Me 2,Action Adventure Comedy Crime Mystery,67.0,10
+The Saint,Thriller Action Romance Science Fiction Adventure,59.0,10
+Spy Game,Action Crime Thriller,68.0,10
+Mission to Mars,Science Fiction,57.0,10
+Rio,Animation Adventure Comedy Family,65.0,10
+Bicentennial Man,Comedy Science Fiction,69.0,10
+Volcano,Science Fiction Action Drama Thriller,52.0,10
+The Devil's Own,Crime Thriller Drama,59.0,10
+K-19: The Widowmaker,Drama History Thriller,61.0,10
+Conan the Barbarian,Adventure Fantasy Action,66.0,10
+Cinderella Man,Romance Drama History,73.0,10
+The Nutcracker: The Untold Story,Fantasy Action Family,54.0,10
+Seabiscuit,Drama History,67.0,10
+Twister,Action Adventure Drama,61.0,10
+Cast Away,Adventure Drama,75.0,10
+Happy Feet,Animation Comedy,59.0,10
+The Bourne Supremacy,Action Drama Thriller,72.0,10
+Air Force One,Action Thriller,62.0,10
+Ocean's Eleven,Thriller Crime,72.0,10
+The Three Musketeers,Adventure Action Thriller,56.0,10
+Hotel Transylvania,Animation Comedy Family Fantasy,68.0,10
+Enchanted,Comedy Family Fantasy Romance,66.0,10
+Safe House,Action Thriller,63.0,10
+102 Dalmatians,Comedy Family,51.0,10
+Tower Heist,Action Comedy,58.0,10
+The Holiday,Comedy Romance,67.0,10
+Enemy of the State,Action Drama Thriller,67.0,10
+It's Complicated,Comedy Romance,62.0,10
+Ocean's Thirteen,Crime Thriller,65.0,10
+Open Season,Adventure Animation Family,61.0,10
+Divergent,Adventure Action Science Fiction,69.0,10
+Enemy at the Gates,War,72.0,10
+The Rundown,Adventure Action Comedy Thriller,64.0,10
+Last Action Hero,Adventure Fantasy Action Comedy Family,61.0,10
+Memoirs of a Geisha,Drama History Romance,73.0,10
+The Fast and the Furious: Tokyo Drift,Action Crime Drama Thriller,61.0,10
+Arthur Christmas,Drama Animation Family Comedy,67.0,10
+Meet Joe Black,Fantasy Drama Mystery,69.0,10
+Collateral Damage,Action Thriller Drama,55.0,10
+All That Jazz,Drama Music,73.0,10
+Mirror Mirror,Adventure Fantasy Drama Comedy Science Fiction,55.0,10
+Scott Pilgrim vs. the World,Action Adventure Comedy,72.0,10
+The Core,Action Thriller Adventure Science Fiction,54.0,10
+,'credit_id': '58f5f6d1925141277100b78b',0.0,10
+Nutty Professor II: The Klumps,Fantasy Comedy Romance Science Fiction,47.0,10
+Scooby-Doo,Mystery Adventure Comedy,54.0,10
+Dredd,Action Science Fiction,66.0,10
+Click,Comedy Drama Fantasy Romance,60.0,10
+Creepshow,Horror Comedy Fantasy,67.0,10
+Cats & Dogs 2 : The Revenge of Kitty Galore,Comedy Family,49.0,10
+Jumper,Adventure Fantasy Science Fiction,59.0,10
+Hellboy II: The Golden Army,Adventure Fantasy Science Fiction,65.0,10
+Zodiac,Crime Drama Mystery Thriller,73.0,10
+The 6th Day,Science Fiction,57.0,10
+Bruce Almighty,Fantasy Comedy,64.0,10
+The Expendables,Thriller Adventure Action,60.0,10
+Mission: Impossible,Adventure Action Thriller,67.0,10
+The Hunger Games,Science Fiction Adventure Fantasy,69.0,10
+The Hangover Part II,Comedy,62.0,10
+Batman Returns,Action Fantasy,66.0,10
+Over the Hedge,Comedy Animation Family,63.0,10
+Lilo & Stitch,Animation Family,71.0,10
+Charlotte's Web,Comedy Family Fantasy,58.0,10
+Deep Impact,Action Drama Romance,59.0,10
+RED 2,Action Comedy Crime Thriller,64.0,10
+The Longest Yard,Comedy Drama,62.0,10
+Alvin and the Chipmunks: Chipwrecked,Comedy Fantasy Family Music Animation,54.0,10
+Grown Ups 2,Comedy,58.0,10
+Get Smart,Action Comedy Thriller,60.0,10
+Something's Gotta Give,Drama Comedy Romance,63.0,10
+Shutter Island,Drama Thriller Mystery,78.0,10
+Four Christmases,Comedy Romance Drama,53.0,10
+Robots,Animation Comedy Family Science Fiction,60.0,10
+Face/Off,Action Crime Science Fiction Thriller,68.0,10
+Bedtime Stories,Fantasy Comedy Family Romance,59.0,10
+Road to Perdition,Thriller Crime Drama,73.0,10
+Just Go with It,Romance Comedy,63.0,10
+Con Air,Action Thriller Crime,65.0,10
+Eagle Eye,Mystery Thriller Action,63.0,10
+Cold Mountain,Drama,67.0,10
+The Book of Eli,Action Thriller Science Fiction,66.0,10
+Flubber,Comedy Family Science Fiction,53.0,10
+The Haunting,Horror Thriller Fantasy Mystery,52.0,10
+Space Jam,Animation Comedy Drama Family Fantasy,65.0,10
+The Pink Panther,Action Comedy Crime Mystery Family,56.0,10
+The Day the Earth Stood Still,Drama Science Fiction Thriller,52.0,10
+Conspiracy Theory,Action Drama Mystery Thriller,65.0,10
+Fury,War Drama Action,74.0,10
+Six Days Seven Nights,Action Adventure Comedy Romance,56.0,10
+Yogi Bear,Comedy Family Animation Adventure,52.0,10
+Spirit: Stallion of the Cimarron,Western Animation Adventure Comedy Family,74.0,10
+Zookeeper,Comedy Romance Family,53.0,10
+Lost in Space,Adventure Family Science Fiction,50.0,10
+The Manchurian Candidate,Drama Thriller Mystery,62.0,10
+Déjà Vu,Romance Drama,80.0,10
+Hotel Transylvania 2,Animation Comedy Family,67.0,10
+Fantasia 2000,Animation Family Music,70.0,10
+The Time Machine,Science Fiction Adventure Action,58.0,10
+Mighty Joe Young,Action Adventure Family Fantasy,59.0,10
+Swordfish,Action Crime Thriller,61.0,10
+The Legend of Zorro,Action Adventure,59.0,10
+What Dreams May Come,Drama Fantasy Romance,68.0,10
+Little Nicky,Comedy Fantasy Romance,52.0,10
+The Brothers Grimm,Adventure Fantasy Action Comedy Thriller,56.0,10
+Mars Attacks!,Comedy Fantasy Science Fiction,61.0,10
+Evolution,Mystery Drama Horror,64.0,10
+The Edge,Action Adventure Drama,67.0,10
+Surrogates,Action Science Fiction Thriller,59.0,10
+Thirteen Days,Drama Thriller,69.0,10
+Daylight,Action Adventure Thriller,58.0,10
+Walking With Dinosaurs,Animation Family Adventure,52.0,10
+Battlefield Earth,Action Science Fiction War,30.0,10
+Looney Tunes: Back in Action,Animation Comedy Family,56.0,10
+Nine,Drama Music Romance,51.0,10
+Timeline,Action Adventure Science Fiction,54.0,10
+The Postman,Drama Adventure,61.0,10
+Babe: Pig in the City,Adventure Comedy Drama Family Fantasy,52.0,10
+The Last Witch Hunter,Fantasy Action Adventure,57.0,10
+Red Planet,Thriller Action Science Fiction,54.0,10
+Arthur and the Invisibles,Adventure Fantasy Animation Family,60.0,10
+Oceans,Documentary Family,73.0,10
+A Sound of Thunder,Thriller Science Fiction Adventure Action,48.0,10
+Pompeii,Action Adventure History Romance Drama,52.0,10
+Top Cat Begins,Comedy Animation,53.0,10
+A Beautiful Mind,Drama Romance,77.0,10
+The Lion King,Family Animation Drama,80.0,10
+Journey 2: The Mysterious Island,Adventure Action Science Fiction,58.0,10
+Cloudy with a Chance of Meatballs 2,Animation Family Comedy,64.0,10
+Red Dragon,Crime Thriller Horror,67.0,10
+Hidalgo,Western Adventure,65.0,10
+Jack and Jill,Comedy,41.0,10
+2 Fast 2 Furious,Action Crime Thriller,62.0,10
+The Little Prince,Adventure Animation Fantasy,76.0,10
+The Invasion,Science Fiction Thriller,57.0,10
+The Adventures of Rocky & Bullwinkle,Action Adventure Animation Comedy Family,39.0,10
+The Secret Life of Pets,Animation Family,59.0,10
+The League of Extraordinary Gentlemen,Fantasy Action Thriller Science Fiction,57.0,10
+Despicable Me 2,Animation Comedy Family,70.0,10
+Independence Day,Action Adventure Science Fiction,67.0,10
+The Lost World: Jurassic Park,Adventure Action Science Fiction,62.0,10
+Madagascar,Family Animation,66.0,10
+Children of Men,Drama Action Thriller Science Fiction,74.0,10
+X-Men,Adventure Action Science Fiction,68.0,10
+Wanted,Action Thriller Crime,64.0,10
+The Rock,Action Adventure Thriller,69.0,10
+Ice Age: The Meltdown,Animation Family Comedy Adventure,65.0,10
+50 First Dates,Comedy Romance,66.0,10
+Hairspray,Family Comedy Music Romance,65.0,10
+Exorcist: The Beginning,Horror Mystery Thriller,47.0,10
+Inspector Gadget,Action Adventure Comedy Family,43.0,10
+Now You See Me,Thriller Crime,73.0,10
+Grown Ups,Comedy,60.0,10
+The Terminal,Comedy Drama,70.0,10
+Hotel for Dogs,Comedy Family,57.0,10
+Vertical Limit,Action Adventure Thriller,59.0,10
+Charlie Wilson's War,Comedy Drama History,65.0,10
+Shark Tale,Animation Action Comedy Family,58.0,10
+Dreamgirls,Drama,66.0,10
+Be Cool,Comedy Crime,54.0,10
+Munich,Drama Action History Thriller,69.0,10
+Tears of the Sun,Action Drama War,64.0,10
+Killers,Action Comedy Thriller Romance,57.0,10
+The Man from U.N.C.L.E.,Comedy Action Adventure,71.0,10
+Spanglish,Comedy,58.0,10
+Monster House,Animation Comedy Family Fantasy,63.0,10
+Bandits,Action Comedy Crime Romance,62.0,10
+First Knight,Action Adventure Drama Romance,59.0,10
+Anna and the King,Drama History Romance,64.0,10
+Immortals,Fantasy Action Drama,57.0,10
+Hostage,Mystery Drama Thriller Crime,62.0,10
+Titan A.E.,Animation Action Science Fiction Family Adventure,63.0,10
+Hollywood Homicide,Action Adventure Comedy Thriller,50.0,10
+Soldier,Action War Science Fiction,61.0,10
+Carriers,Action Drama Horror Science Fiction Thriller,58.0,10
+Monkeybone,Adventure Fantasy Animation Action Comedy,43.0,10
+Flight of the Phoenix,Action Adventure Drama Thriller,57.0,10
+Unbreakable,Science Fiction Thriller Drama,69.0,10
+Minions,Family Animation Adventure Comedy,64.0,10
+Sucker Punch,Action Fantasy Thriller,59.0,10
+Snake Eyes,Crime Mystery,58.0,10
+Sphere,Science Fiction,58.0,10
+The Angry Birds Movie,Family Animation,59.0,10
+Fool's Gold,Romance Comedy Adventure,54.0,10
+Funny People,Comedy Drama,57.0,10
+The Kingdom,Thriller Action Drama,65.0,10
+Talladega Nights: The Ballad of Ricky Bobby,Comedy,62.0,10
+Dr. Dolittle 2,Comedy Family Romance Fantasy,49.0,10
+Braveheart,Action Drama History War,77.0,10
+Jarhead,Drama War,66.0,10
+The Simpsons Movie,Animation Comedy Family,69.0,10
+The Majestic,Drama Romance,66.0,10
+Driven,Action,45.0,10
+Two Brothers,Adventure Drama Family,69.0,10
+The Village,Drama Mystery Thriller,62.0,10
+Doctor Dolittle,Comedy Family Fantasy,54.0,10
+Signs,Drama Thriller Science Fiction Mystery,64.0,10
+Shrek 2,Adventure Animation Comedy Family Fantasy,67.0,10
+Cars,Animation Adventure Comedy Family,66.0,10
+Runaway Bride,Comedy Romance,57.0,10
+xXx,Action Adventure Thriller,58.0,10
+The SpongeBob Movie: Sponge Out of Water,Animation Adventure Comedy Family,58.0,10
+Ransom,Action Thriller,64.0,10
+Inglourious Basterds,Drama Action Thriller War,79.0,10
+Hook,Adventure Fantasy Comedy Family,66.0,10
+Die Hard 2,Action Thriller,66.0,10
+S.W.A.T.,Action Thriller Crime,58.0,10
+Vanilla Sky,Drama Mystery Romance Science Fiction Thriller,65.0,10
+Lady in the Water,Drama Thriller Fantasy Mystery,53.0,10
+AVP: Alien vs. Predator,Adventure Science Fiction Action,55.0,10
+Alvin and the Chipmunks: The Squeakquel,Comedy Family Animation Fantasy Music,54.0,10
+We Were Soldiers,Action History War,67.0,10
+Olympus Has Fallen,Action Thriller,62.0,10
+Star Trek: Insurrection,Science Fiction Action Adventure Thriller,63.0,10
+Battle: Los Angeles,Action Science Fiction,55.0,10
+Big Fish,Adventure Fantasy Drama,76.0,10
+Wolf,Fantasy,60.0,10
+War Horse,Drama War,70.0,10
+The Monuments Men,War Drama History Action,58.0,10
+The Abyss,Adventure Action Thriller Science Fiction,71.0,10
+Wall Street: Money Never Sleeps,Drama Crime,58.0,10
+Dracula Untold,Horror Action Drama Fantasy War,62.0,10
+The Siege,Drama Action Thriller Crime,60.0,10
+Stardust,Adventure Fantasy Romance Family,71.0,10
+Seven Years in Tibet,Adventure Drama History,70.0,10
+The Dilemma,Comedy Drama,52.0,10
+Bad Company,Action Adventure Comedy Thriller,54.0,10
+Doom,Adventure Action Horror,50.0,10
+I Spy,Action Adventure Comedy Thriller,52.0,10
+Underworld: Awakening,Fantasy Action Horror,61.0,10
+Rock of Ages,Comedy Drama Music Romance,60.0,10
+Hart's War,Drama War,59.0,10
+Killer Elite,Action Adventure Thriller,61.0,10
+Rollerball,Action Science Fiction Thriller,34.0,10
+Ballistic: Ecks vs. Sever,Action Adventure Thriller,43.0,10
+Hard Rain,Thriller,55.0,10
+Osmosis Jones,Adventure Animation Action Comedy Family,59.0,10
+Legends of Oz: Dorothy's Return,Animation Music Family,59.0,10
+Blackhat,Crime Drama Mystery,51.0,10
+Sky Captain and the World of Tomorrow,Mystery Action Thriller Science Fiction Adventure,57.0,10
+Basic Instinct 2,Crime Mystery Thriller,46.0,10
+Escape Plan,Action Thriller,67.0,10
+The Legend of Hercules,Action Adventure,44.0,10
+The Sum of All Fears,Thriller Action Drama,59.0,10
+The Twilight Saga: Eclipse,Adventure Fantasy Drama Romance,58.0,10
+The Score,Action Crime Thriller,67.0,10
+Despicable Me,Animation Family,71.0,10
+Money Train,Action Comedy Crime,54.0,10
+Ted 2,Comedy,62.0,10
+Agora,Adventure Drama History,69.0,10
+Mystery Men,Adventure Fantasy Action Comedy Science Fiction,57.0,10
+Hall Pass,Comedy,54.0,10
+The Insider,Drama Thriller,73.0,10
+The Finest Hours,Action Drama History Thriller,63.0,10
+Body of Lies,Action Drama Thriller,65.0,10
+Dinner for Schmucks,Comedy,55.0,10
+Abraham Lincoln: Vampire Hunter,Action Fantasy Horror,55.0,10
+Entrapment,Romance Drama Mystery,60.0,10
+The X Files,Mystery Science Fiction Thriller,66.0,10
+The Last Legion,Action Adventure Fantasy War,50.0,10
+Saving Private Ryan,Drama History War,79.0,10
+Need for Speed,Action Crime Drama Thriller,61.0,10
+What Women Want,Comedy Romance,61.0,10
+Ice Age,Animation Comedy Family Adventure,71.0,10
+Dreamcatcher,Drama Horror Science Fiction Thriller,53.0,10
+Lincoln,History Drama,67.0,10
+The Matrix,Action Science Fiction,79.0,10
+Apollo 13,Drama,73.0,10
+The Santa Clause 2,Fantasy Comedy Family,55.0,10
+Les Misérables,Drama Music Romance,71.0,10
+You've Got Mail,Comedy Romance,63.0,10
+Step Brothers,Comedy,65.0,10
+The Mask of Zorro,Action Adventure,63.0,10
+Due Date,Comedy Drama,62.0,10
+Unbroken,Drama War,73.0,10
+Space Cowboys,Action Adventure Thriller,63.0,10
+Cliffhanger,Action Adventure Thriller,61.0,10
+Broken Arrow,Action Adventure Drama Thriller,57.0,10
+The Kid,Fantasy Comedy Family,60.0,10
+World Trade Center,Drama History Thriller,59.0,10
+Mona Lisa Smile,Drama Romance,65.0,10
+The Dictator,Comedy,59.0,10
+Eyes Wide Shut,Mystery Drama,71.0,10
+Annie,Comedy Drama Family,60.0,10
+Focus,Romance Comedy Crime Drama,67.0,10
+This Means War,Action Comedy Romance,59.0,10
+Blade: Trinity,Science Fiction Action Horror Thriller Adventure,57.0,10
+Red Dawn,Action Thriller,64.0,10
+Primary Colors,Comedy Drama,61.0,10
+Resident Evil: Retribution,Action Horror Science Fiction,56.0,10
+Death Race,Action Thriller Science Fiction,60.0,10
+The Long Kiss Goodnight,Crime Action Mystery Thriller,65.0,10
+Proof of Life,Action Adventure Drama Romance Thriller,60.0,10
+Zathura: A Space Adventure,Family Fantasy Science Fiction Adventure,61.0,10
+Fight Club,Drama,90.0,11
+We Are Marshall,Drama,67.0,10
+Hudson Hawk,Action Adventure Comedy,54.0,10
+Lucky Numbers,Action Adventure Comedy Crime Romance,49.0,10
+"I, Frankenstein",Horror Thriller,50.0,10
+Oliver Twist,Crime Drama Family,67.0,10
+Elektra,Action Fantasy,48.0,10
+Sin City: A Dame to Kill For,Crime Thriller,63.0,10
+Random Hearts,Drama Romance,53.0,10
+Everest,Adventure Drama,67.0,10
+Perfume: The Story of a Murderer,Crime Fantasy Drama,71.0,10
+Austin Powers in Goldmember,Comedy Crime Science Fiction,59.0,10
+Astro Boy,Animation Action Family Science Fiction,61.0,10
+Jurassic Park,Adventure Science Fiction,76.0,10
+Wyatt Earp,Drama Action Western,65.0,10
+Clear and Present Danger,Action Drama Thriller,64.0,10
+Dragon Blade,Action Drama Adventure,59.0,10
+Little Man,Comedy Crime,53.0,10
+U-571,Action Drama Thriller War,61.0,10
+The American President,Comedy Drama Romance,65.0,10
+The Love Guru,Comedy Romance,43.0,10
+3000 Miles to Graceland,Action Adventure Comedy Thriller Crime,58.0,10
+The Hateful Eight,Crime Drama Mystery Western,76.0,10
+Blades of Glory,Action Comedy Drama,59.0,10
+Hop,Animation Comedy Family,55.0,10
+300,Action Adventure War,70.0,10
+Meet the Fockers,Comedy Romance,61.0,10
+Marley & Me,Comedy Family,69.0,10
+The Green Mile,Fantasy Drama Crime,82.0,10
+Wild Hogs,Action Adventure Comedy,56.0,10
+Chicken Little,Animation Family Comedy,56.0,10
+Gone Girl,Mystery Thriller Drama,79.0,10
+The Bourne Identity,Action Drama Mystery Thriller,73.0,10
+GoldenEye,Adventure Action Thriller,66.0,10
+The General's Daughter,Crime Drama Mystery Thriller,61.0,10
+The Truman Show,Comedy Drama,85.2,11
+The Prince of Egypt,Adventure Animation Drama Family Music,68.0,10
+Daddy Day Care,Comedy Family,56.0,10
+2 Guns,Action Comedy Crime,66.0,10
+Cats & Dogs,Comedy Family,50.0,10
+The Italian Job,Action Crime,66.0,10
+Two Weeks Notice,Romance Comedy,59.0,10
+Antz,Adventure Animation Comedy Family,60.0,10
+Couples Retreat,Comedy Romance,53.0,10
+Days of Thunder,Adventure,59.0,10
+Cheaper by the Dozen 2,Comedy,57.0,10
+Maze Runner: The Scorch Trials,Action,64.0,10
+Eat Pray Love,Drama,58.0,10
+The Family Man,Comedy Drama Romance Fantasy,65.0,10
+RED,Action Adventure Comedy Crime Thriller,66.0,10
+Any Given Sunday,Drama,68.0,10
+The Horse Whisperer,Drama Romance,67.0,10
+Collateral,Drama Crime Thriller,70.0,10
+The Scorpion King,Action Fantasy Adventure,53.0,10
+Ladder 49,Drama Action Thriller,62.0,10
+Jack Reacher,Crime Drama Thriller,63.0,10
+Deep Blue Sea,Action Science Fiction Thriller,56.0,10
+This Is It,Music Documentary,73.8,11
+Contagion,Drama Thriller Science Fiction,62.0,10
+Kangaroo Jack,Comedy Adventure Crime,43.0,10
+Coraline,Animation Family,73.0,10
+The Happening,Thriller Science Fiction,49.0,10
+Man on Fire,Action Drama Thriller Crime,73.0,10
+The Shaggy Dog,Comedy Family,45.0,10
+Starsky & Hutch,Comedy Crime,56.0,10
+Jingle All the Way,Family Comedy,55.0,10
+Hellboy,Fantasy Action Science Fiction,65.0,10
+A Civil Action,Drama,61.0,10
+ParaNorman,Family Animation Adventure Comedy,67.0,10
+The Jackal,Action Thriller Adventure Crime,61.0,10
+Paycheck,Action Adventure Mystery Science Fiction Thriller,59.0,10
+Up Close & Personal,Drama Romance,59.0,10
+The Tale of Despereaux,Adventure Animation Family,58.0,10
+The Tuxedo,Thriller Action Comedy Science Fiction,53.0,10
+Under Siege 2: Dark Territory,Action Thriller,56.0,10
+Jack Ryan: Shadow Recruit,Action Drama Thriller,59.0,10
+Joy,Drama Comedy,64.0,10
+London Has Fallen,Action Crime Thriller,58.0,10
+Alien: Resurrection,Science Fiction Horror Action,59.0,10
+Shooter,Action Drama Mystery Thriller Crime,69.0,10
+The Boxtrolls,Animation Comedy Family Fantasy,66.0,10
+Practical Magic,Drama Fantasy Comedy,63.0,10
+The Lego Movie,Adventure Animation Comedy Family Fantasy,75.0,10
+Miss Congeniality 2: Armed and Fabulous,Action Comedy,53.0,10
+Reign of Fire,Adventure Action Fantasy,60.0,10
+Gangster Squad,Crime Drama Action Thriller,62.0,10
+Year One,Comedy Adventure,46.0,10
+Invictus,Drama History,70.0,10
+State of Play,Action,67.0,10
+Duplicity,Romance Comedy Crime,57.0,10
+My Favorite Martian,Comedy Drama Family Science Fiction,51.0,10
+The Sentinel,Action Thriller Crime,58.0,10
+Planet 51,Science Fiction Animation Family Comedy Adventure,56.0,10
+Star Trek: Nemesis,Science Fiction Action Adventure Thriller,61.0,10
+Intolerable Cruelty,Crime Comedy Romance,58.0,10
+Trouble with the Curve,Drama Romance,66.0,10
+Edge of Darkness,Crime Drama Mystery Thriller,62.0,10
+The Relic,Horror Mystery Thriller,58.0,10
+Analyze That,Comedy Crime,57.0,10
+Righteous Kill,Action Crime Drama Thriller,59.0,10
+Mercury Rising,Action Crime Drama Thriller,60.0,10
+The Soloist,Drama,66.0,10
+The Legend of Bagger Vance,Fantasy Drama,63.0,10
+Almost Famous,Drama Music,74.0,10
+Garfield: A Tail of Two Kitties,Animation Comedy Family,51.0,10
+xXx: State of the Union,Action Adventure Crime Drama Mystery,47.0,10
+Priest,Action Science Fiction Fantasy Thriller Horror,54.0,10
+Sinbad: Legend of the Seven Seas,Family Animation Adventure,66.0,10
+Event Horizon,Horror Science Fiction Mystery,65.0,10
+Dragonfly,Drama,61.0,10
+The Black Dahlia,Drama,57.0,10
+Flyboys,Action Adventure Drama History Romance,63.0,10
+The Last Castle,Action Drama Thriller,70.0,10
+Supernova,Horror Science Fiction Thriller,49.0,10
+Winter's Tale,Drama Fantasy Mystery Romance,60.0,10
+The Mortal Instruments: City of Bones,Action Adventure Drama Mystery Romance,62.0,10
+Meet Dave,Comedy Science Fiction Adventure Family,50.0,10
+Dark Water,Drama Horror Thriller,53.0,10
+Edtv,Comedy,57.0,10
+Inkheart,Adventure Family Fantasy,60.0,10
+The Spirit,Action Comedy Thriller Crime Science Fiction,47.0,10
+Mortdecai,Comedy Adventure,54.0,10
+In the Name of the King: A Dungeon Siege Tale,Adventure Fantasy Action Drama,41.0,10
+Beyond Borders,Drama Romance Adventure War,67.0,10
+The Monkey King 2,Action Adventure Fantasy,60.0,10
+The Great Raid,Action History War,68.0,10
+Deadpool,Action Adventure Comedy,74.0,10
+Holy Man,Drama Comedy,49.0,10
+American Sniper,War Action,74.0,10
+Goosebumps,Adventure Horror Comedy,62.0,10
+Just Like Heaven,Comedy Fantasy Romance,65.0,10
+The Flintstones in Viva Rock Vegas,Science Fiction Comedy Family Romance,44.0,10
+Rambo III,Action Adventure Thriller War,57.0,10
+Leatherheads,Comedy Romance Drama,57.0,10
+The Ridiculous 6,Comedy Western,49.0,10
+Did You Hear About the Morgans?,Comedy,51.0,10
+The Internship,Comedy,61.0,10
+Resident Evil: Afterlife,Action Adventure Horror Science Fiction,58.0,10
+Red Tails,Drama Action Adventure History War,59.0,10
+The Devil's Advocate,Drama Horror Mystery Thriller,72.0,10
+That's My Boy,Comedy,55.0,10
+DragonHeart,Fantasy,64.0,10
+After the Sunset,Action Comedy Crime Drama,60.0,10
+Ghost Rider: Spirit of Vengeance,Action Fantasy Thriller,47.0,10
+Captain Corelli's Mandolin,Drama History Romance,55.0,10
+The Pacifier,Action Comedy Drama Family Thriller,58.0,10
+Walking Tall,Adventure Drama Action Thriller,60.0,10
+Forrest Gump,Comedy Drama Romance,90.1,11
+Alvin and the Chipmunks,Comedy Music Family Fantasy Animation,55.0,10
+Meet the Parents,Comedy Romance,66.0,10
+Pocahontas,Adventure Animation Drama Family,67.0,10
+Superman,Action Adventure Fantasy Science Fiction,69.0,10
+The Nutty Professor,Fantasy Comedy Romance Science Fiction,54.0,10
+Hitch,Comedy Drama Romance,64.0,10
+George of the Jungle,Adventure Comedy Family Romance,54.0,10
+American Wedding,Comedy Romance,60.0,10
+Captain Phillips,Action Drama Thriller,76.0,10
+Date Night,Comedy,59.0,10
+Casper,Fantasy Comedy Family,60.0,10
+The Equalizer,Thriller Action Crime,71.0,10
+Maid in Manhattan,Comedy Drama Romance,56.0,10
+Crimson Tide,Action Thriller Drama,70.0,10
+The Pursuit of Happyness,Drama,77.0,10
+Flightplan,Thriller Drama Mystery,61.0,10
+Disclosure,Drama Thriller Crime Mystery Romance,59.0,10
+City of Angels,Drama Fantasy Romance,64.0,10
+Kill Bill: Vol. 1,Action Crime,77.0,10
+Bowfinger,Comedy,60.0,10
+Kill Bill: Vol. 2,Action Crime Thriller,76.0,10
+Tango & Cash,Action Adventure Comedy,61.0,10
+Death Becomes Her,Fantasy Comedy,63.0,10
+Shanghai Noon,Adventure Action Comedy Western,62.0,10
+Executive Decision,Action Adventure Drama Thriller,58.0,10
+Mr. Popper's Penguins,Comedy Family,57.0,10
+The Forbidden Kingdom,Action Adventure Fantasy,63.0,10
+Free Birds,Animation Comedy Family,57.0,10
+Alien³,Science Fiction Action Horror,62.0,10
+Evita,History Drama Music,59.0,10
+Ronin,Action Thriller Crime Adventure,67.0,10
+The Ghost and the Darkness,Adventure,64.0,10
+Paddington,Family Comedy,70.0,10
+The Watch,Comedy,53.0,10
+The Hunted,Drama Action Thriller Crime,60.0,10
+Instinct,Drama Mystery Thriller,62.0,10
+Stuck on You,Comedy,51.0,10
+Semi-Pro,Comedy,54.0,10
+The Pirates! In an Adventure with Scientists!,Animation Adventure Family Comedy,64.0,10
+Changeling,Crime Drama Mystery,73.0,10
+Chain Reaction,Action Drama Science Fiction Thriller,53.0,10
+The Fan,Drama Mystery Thriller,57.0,10
+The Phantom of the Opera,Thriller Drama Romance,70.0,10
+Elizabeth: The Golden Age,Drama History Romance,66.0,10
+Æon Flux,Action Science Fiction,54.0,10
+Gods and Generals,Drama History War,61.0,10
+Turbulence,Action Thriller Crime,52.0,10
+Imagine That,Comedy,57.0,10
+Muppets Most Wanted,Comedy Adventure Crime Family,62.0,10
+Thunderbirds,Action Adventure Comedy Family Fantasy,42.0,10
+Burlesque,Drama Romance,69.0,10
+A Very Long Engagement,Drama,71.0,10
+Lolita,Drama Romance,73.0,10
+D-Tox,Action Thriller,53.0,10
+Blade II,Fantasy Horror Action Thriller,62.0,10
+Seven Pounds,Drama,75.0,10
+Bullet to the Head,Action Crime Thriller,52.0,10
+The Godfather: Part III,Crime Drama Thriller,71.0,10
+Elizabethtown,Comedy Drama Romance,61.0,10
+"You, Me and Dupree",Comedy Romance,54.0,10
+Superman II,Action Adventure Fantasy Science Fiction,65.0,10
+Gigli,Drama,35.0,10
+All the King's Men,Drama Thriller,57.0,10
+Shaft,Action Adventure Crime Thriller,55.0,10
+Anastasia,Animation Family,74.0,10
+Moulin Rouge!,Drama Music Romance,74.0,10
+Domestic Disturbance,Mystery Thriller Crime,54.0,10
+Black Mass,Crime Drama,63.0,10
+Flags of Our Fathers,War Drama History,67.0,10
+Law Abiding Citizen,Drama Crime Thriller,72.0,10
+Grindhouse,Thriller Action Horror,68.0,10
+Beloved,Drama Thriller,59.0,10
+Lucky You,Drama Romance,54.0,10
+Catch Me If You Can,Drama Crime,77.0,10
+Zero Dark Thirty,Thriller Drama History,67.0,10
+The Break-Up,Romance Comedy,56.0,10
+Mamma Mia!,Comedy Romance,64.0,10
+Valentine's Day,Comedy Romance,57.0,10
+The Dukes of Hazzard,Action Adventure Comedy,51.0,10
+The Thin Red Line,Drama History War,72.0,10
+The Change-Up,Comedy,59.0,10
+Man on the Moon,Comedy Drama Romance,69.0,10
+Casino,Drama Crime,78.0,10
+From Paris with Love,Action Crime Thriller,61.0,10
+Bulletproof Monk,Action Comedy Fantasy,51.0,10
+"Me, Myself & Irene",Comedy,61.0,10
+Barnyard,Animation Comedy Family,53.0,10
+Deck the Halls,Comedy Family,51.0,10
+The Twilight Saga: New Moon,Adventure Fantasy Drama Romance,56.0,10
+Shrek,Adventure Animation Comedy Family Fantasy,73.0,10
+The Adjustment Bureau,Science Fiction Thriller Romance,65.0,10
+Robin Hood: Prince of Thieves,Adventure,66.0,10
+Jerry Maguire,Comedy Drama Romance,67.0,10
+Ted,Comedy Fantasy,63.0,10
+As Good as It Gets,Comedy Romance,72.0,10
+Patch Adams,Comedy Drama,70.0,10
+Anchorman 2: The Legend Continues,Comedy,60.0,10
+Mr. Deeds,Comedy Romance,56.0,10
+Super 8,Thriller Science Fiction Mystery,66.0,10
+Erin Brockovich,Drama,71.0,10
+How to Lose a Guy in 10 Days,Comedy Romance,63.0,10
+22 Jump Street,Crime Comedy Action,70.0,10
+Interview with the Vampire,Horror Romance,72.0,10
+Yes Man,Comedy,64.0,10
+Central Intelligence,Action Comedy,62.0,10
+Stepmom,Drama Romance,69.0,10
+Daddy's Home,Comedy,58.0,10
+Into the Woods,Fantasy Comedy Music,56.0,10
+Inside Man,Crime Drama Thriller,73.0,10
+Payback,Drama Action Thriller Crime,67.0,10
+Congo,Action Adventure Drama Mystery Science Fiction,50.0,10
+We Bought a Zoo,Drama Comedy Family,65.0,10
+Knowing,Action Adventure Drama Mystery Science Fiction,59.0,10
+Failure to Launch,Comedy,55.0,10
+The Ring Two,Drama Horror Thriller,54.0,10
+"Crazy, Stupid, Love.",Comedy Drama Romance,70.0,10
+Garfield,Animation Comedy Family,52.0,10
+Christmas with the Kranks,Comedy Family,52.0,10
+Moneyball,Drama,70.0,10
+Outbreak,Action Drama Science Fiction Thriller,63.0,10
+Non-Stop,Action Thriller Mystery,68.0,10
+Race to Witch Mountain,Adventure Family Fantasy Science Fiction Thriller,55.0,10
+V for Vendetta,Action Thriller Fantasy,77.0,10
+Shanghai Knights,Action Adventure Comedy Western,60.0,10
+Curious George,Adventure Animation Comedy Family,62.0,10
+Herbie Fully Loaded,Comedy Family Adventure Fantasy Romance,51.0,10
+Don't Say a Word,Thriller,60.0,10
+Hansel & Gretel: Witch Hunters,Fantasy Horror Action,57.0,10
+Unfaithful,Thriller Drama,63.0,10
+I Am Number Four,Action Thriller Science Fiction Adventure,59.0,10
+Syriana,Drama Thriller,63.0,10
+13 Hours: The Secret Soldiers of Benghazi,Action Drama History Thriller War,70.0,10
+The Book of Life,Romance Animation Adventure Comedy Family,73.0,10
+Firewall,Thriller,56.0,10
+Absolute Power,Crime Drama Thriller,64.0,10
+G.I. Jane,Action Drama,60.0,10
+The Game,Drama Thriller Mystery,75.0,10
+Silent Hill,Horror Mystery,63.0,10
+The Replacements,Comedy,61.0,10
+American Reunion,Comedy,61.0,10
+The Negotiator,Action Adventure Crime Drama Mystery,68.0,10
+Into the Storm,Action Thriller,58.0,10
+Beverly Hills Cop III,Action Comedy Crime,55.0,10
+Gremlins 2: The New Batch,Comedy Horror Fantasy,62.0,10
+The Judge,Drama,72.0,10
+The Peacemaker,Action Thriller,58.0,10
+Resident Evil: Apocalypse,Horror Action Science Fiction,61.0,10
+Bridget Jones: The Edge of Reason,Comedy Romance,61.0,10
+Out of Time,Thriller Crime Drama,61.0,10
+On Deadly Ground,Action Thriller,45.0,10
+The Adventures of Sharkboy and Lavagirl,Adventure Family Science Fiction,44.0,10
+The Beach,Drama Adventure Romance Thriller,63.0,10
+Raising Helen,Drama Comedy Romance,59.0,10
+Ninja Assassin,Action Crime Thriller,62.0,10
+For Love of the Game,Drama Romance,63.0,10
+Striptease,Drama Thriller Crime,44.0,10
+Marmaduke,Family Comedy,50.0,10
+Hereafter,Drama Fantasy,58.0,10
+Murder by Numbers,Crime Drama Thriller,60.0,10
+Assassins,Action Adventure Crime Thriller,60.0,10
+Hannibal Rising,Crime Drama Thriller,60.0,10
+The Story of Us,Comedy Drama Romance,59.0,10
+The Host,Action Adventure Romance Science Fiction Thriller,60.0,10
+Basic,Action Drama Mystery Thriller Crime,62.0,10
+Blood Work,Crime Drama Mystery Thriller,61.0,10
+The International,Drama Thriller Crime,60.0,10
+Escape from L.A.,Action Adventure Science Fiction Thriller,56.0,10
+The Iron Giant,Adventure Animation Family Fantasy Science Fiction,76.0,10
+The Life Aquatic with Steve Zissou,Adventure Comedy Drama,71.0,10
+Free State of Jones,War Action Drama History Thriller,66.0,10
+The Life of David Gale,Drama Thriller Crime,73.0,10
+Man of the House,Comedy Action,54.0,10
+Run All Night,Action Crime Drama Mystery Thriller,63.0,10
+Eastern Promises,Thriller Crime Mystery,72.0,10
+Into the Blue,Action Thriller Adventure Crime,58.0,10
+The Messenger: The Story of Joan of Arc,Adventure Drama Action History War,62.0,10
+Your Highness,Comedy,52.0,10
+Dream House,Drama Thriller Mystery,58.0,10
+Mad City,Action Drama Thriller,59.0,10
+Baby's Day Out,Action Adventure Comedy Family,58.0,10
+The Scarlet Letter,Drama History Romance,55.0,10
+Fair Game,Drama Thriller,65.0,10
+Domino,Action Crime,60.0,10
+Jade,Action Thriller Mystery Romance,52.0,10
+Gamer,Action Thriller Science Fiction,56.0,10
+Beautiful Creatures,Fantasy Drama Romance,56.0,10
+Death to Smoochy,Comedy Crime Drama Thriller,59.0,10
+Zoolander 2,Comedy,47.0,10
+The Big Bounce,Comedy Crime,50.0,10
