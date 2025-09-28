@@ -12,7 +12,7 @@ A beginner-level Python project that recommends movies based on genre(s) input b
 
 # 📂 Files
 
-- `recommend.py` – Python script
+- `hello.py` – Python script
 - `movies_cleaned.csv` – database (title, genre, rating, watch count)
 
 # 🛠️ How It Works
